@@ -50,7 +50,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![]()
+![](https://github.com/Luneli014/flow1-nodeRed-docker-compose/blob/main/imagenes/Screenshot%20from%202023-08-08%2021-02-44.png?raw=true)
 
 ## Evidencias
 
