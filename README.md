@@ -50,16 +50,15 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/hugoescalpelo/flow1-g12/blob/main/imagenes/Screenshot%20from%202023-05-23%2023-26-20.png?raw=true)
+![]()
 
 ## Evidencias
 
-- [TikTok](https://www.tiktok.com/@hugoescalpelo/video/7236589590008564998)
-- [YouTube (versión anterior)](https://youtu.be/8U-K6bgMQwE)
+- [TikTok]()
 
 # Créditos
 
-Desarrollado por Hugo Escalpelo
-- [hugoescalpelo.com](https://hugoescalpelo.com/)
-- [Página en Facebook](https://www.facebook.com/Hugo-Escalpelo-Profesional-337708683840136)
-- [GitHub](https://github.com/hugoescalpelo)
+Desarrollado por Karen Luna
+
+- [Página en Instagram](https://www.instagram.com/karen.luna14/)
+- [GitHub](https://github.com/Luneli014)
